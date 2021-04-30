@@ -1,1 +1,2 @@
-# Aladdin4Stud
+# AladdinAdventures
+A multi level game for Aladdin fans
